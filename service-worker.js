@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.a78c70fe895f4a5ca6de100410adc4cd.js"
+  "precache-manifest.8a53ffc120f7f5a609acf4bb406a683e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "game-coloring"});
