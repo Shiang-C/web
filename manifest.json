@@ -1,6 +1,6 @@
 {
-  "name": "game-coloring",
-  "short_name": "game-coloring",
+  "name": "web",
+  "short_name": "web",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",

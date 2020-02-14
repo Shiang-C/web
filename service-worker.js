@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.8a53ffc120f7f5a609acf4bb406a683e.js"
+  "precache-manifest.83497014f470ca22d73022f320413447.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "game-coloring"});
+workbox.core.setCacheNameDetails({prefix: "web"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
