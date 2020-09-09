@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9c4fb5d838c6b3060d85",
-    "url": "web/css/app.98cb2a9d.css"
+    "revision": "97e04aafbcdcf2a7dd53",
+    "url": "web/css/app.42cb813f.css"
   },
   {
-    "revision": "9c4fb5d838c6b3060d85",
-    "url": "web/js/app.61f91312.js"
+    "revision": "97e04aafbcdcf2a7dd53",
+    "url": "web/js/app.083e3fbf.js"
   },
   {
     "revision": "cb759e36bc7ef6c98cbe",
@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "web/js/chunk-3181b741.9989940e.js"
   },
   {
-    "revision": "e5d9e7e09551eef4f6fc",
-    "url": "web/css/chunk-688a2708.cea449f2.css"
+    "revision": "a7c50992bebc6eea5ccf",
+    "url": "web/css/chunk-43b6062c.7a31a6fa.css"
   },
   {
-    "revision": "e5d9e7e09551eef4f6fc",
-    "url": "web/js/chunk-688a2708.14b0859a.js"
+    "revision": "a7c50992bebc6eea5ccf",
+    "url": "web/js/chunk-43b6062c.3f308b17.js"
   },
   {
-    "revision": "0270142f17cb87267bb4",
-    "url": "web/css/chunk-6d5016ba.2ee0213f.css"
+    "revision": "89aaf3ff773e24b8ac47",
+    "url": "web/css/chunk-7b384464.3c0bb3dc.css"
   },
   {
-    "revision": "0270142f17cb87267bb4",
-    "url": "web/js/chunk-6d5016ba.cb7c3899.js"
+    "revision": "89aaf3ff773e24b8ac47",
+    "url": "web/js/chunk-7b384464.393bb87a.js"
   },
   {
     "revision": "56ae1b196518d0d98a50",
@@ -56,28 +56,28 @@ self.__precacheManifest = [
     "url": "web/fonts/element-icons.732389de.ttf"
   },
   {
-    "revision": "c2f1b78e664b1bd2fed3e705bb51c599",
+    "revision": "6ae4f4e5e028952c88e95d351acb2d87",
     "url": "index.html"
-  },
-  {
-    "revision": "fb0c32261c7dacb8041a64c096bb2edb",
-    "url": "img/login/logo.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "robots.txt"
   },
   {
+    "revision": "fb0c32261c7dacb8041a64c096bb2edb",
+    "url": "img/login/logo.png"
+  },
+  {
     "revision": "8776b0483e67c6b13ad878a90054f998",
     "url": "img/works/works04.png"
   },
   {
-    "revision": "34819bdfa3598b784221c0b4fa47f49e",
-    "url": "img/avatar/avatar.png"
-  },
-  {
     "revision": "c0bf73bd0fc1c1b7f6b3371dda0270bb",
     "url": "img/works/works02.png"
+  },
+  {
+    "revision": "34819bdfa3598b784221c0b4fa47f49e",
+    "url": "img/avatar/avatar.png"
   },
   {
     "revision": "1db4e49ad83feaa0690de6b189d7cc95",
