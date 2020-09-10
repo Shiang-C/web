@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.96b237bd6e3a527f6139717ed386a607.js"
+  "precache-manifest.080d73a5ecc0528b07de040e76c3ec4a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "prud"});
